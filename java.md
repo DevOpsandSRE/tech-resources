@@ -3,9 +3,15 @@
 
 #### Documentation
 
-* [Java7] https://docs.oracle.com/javase/7/docs/api/
-* [Java8] https://docs.oracle.com/javase/8/docs/api/
-* [Java9] https://docs.oracle.com/javase/9/docs/api/
+* [Java7] (https://docs.oracle.com/javase/7/docs/api/)
+* [Java8] (https://docs.oracle.com/javase/8/docs/api/)
+* [Java9] (https://docs.oracle.com/javase/9/docs/api/)
+
+#### Books
+ * [Effective Java - Third Edition] (https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997)
+ * [Effective Java - Second Edition] (https://www.amazon.com/Effective-Java-2nd-Joshua-Bloch/dp/0321356683)
+ * [Java Concurrency In Practice] (https://www.amazon.com/Java-Concurrency-Practice-Brian-Goetz/dp/0321349601)
+ * [Java SE 8 For the Really Impatient] (https://www.amazon.com/Java-SE8-Really-Impatient-Course-ebook/dp/B00HSH2QT6)
 
 #### E-Books [free]
 
