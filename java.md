@@ -3,9 +3,9 @@
 
 #### Documentation
 
-* [Java7](https://docs.oracle.com/javase/7/docs/api/)
-* [Java8](https://docs.oracle.com/javase/8/docs/api/)
-* [Java9](https://docs.oracle.com/javase/9/docs/api/)
+ * [Java7](https://docs.oracle.com/javase/7/docs/api/)
+ * [Java8](https://docs.oracle.com/javase/8/docs/api/)
+ * [Java9](https://docs.oracle.com/javase/9/docs/api/)
 
 #### Books
  * [Effective Java - Third Edition](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997)
