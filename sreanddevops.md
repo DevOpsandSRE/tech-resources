@@ -84,7 +84,6 @@
   incremental file transfer on local disk or over the network. Archive,
   mirror, etc.
 
-
 #### Linting
 
 * **[httpolice](https://github.com/vfaronov/httpolice)**: a validator for HTTP
@@ -92,7 +91,6 @@
   codes, and other interoperability problems in your HTTP server or client.
 * **[shellcheck](http://www.shellcheck.net/)**: a tool that gives warnings and
   suggestions for bash/sh shell scripts.
-
 
 #### Networking
 
@@ -138,27 +136,6 @@
   connection packet and byte counts, interface statistics and activity
   indicators, TCP/UDP traffic breakdowns, and LAN station packet and byte
   counts.
-
-
-#### Monitoring
-
-* **[monit](https://mmonit.com/monit/)**: a small utility for managing and
-  monitoring Unix systems. Monit conducts automatic maintenance and repair and
-  can execute meaningful causal actions in error situations.
-* **[monitorix](http://www.monitorix.org)**: Lightweight monitoring tool that
-  collects and displays many system usage graphs through a web interface.
-* **[iotop](http://guichaz.free.fr/iotop/)**: Show disk and swap I/O per
-  process.
-* **[logtail](https://www.fourmilab.ch/webtools/logtail/)**: Watch multiple
-  log files on multiple machines.
-* **[lnav](http://lnav.org/)**: An advanced log file viewer for the
-  small-scale. Watch and analyze your log files from a terminal. No server. No
-  setup. Still featureful.
-* **[sentry](https://sentry.io/welcome/)**: Open-source error tracking that
-  helps developers monitor and fix crashes in real time.
-* **[ts](https://joeyh.name/code/moreutils/)**: Add timestamps to piped output
-  (stdout). E.g. `rsync x y | ts '[%Y-%m-%d %H:%M:%S]'`.
-
 
 #### Security
 
