@@ -68,7 +68,7 @@
 * [Kubernetes](https://github.com/kubernetes/kubernetes)
 * [Vagrant](https://www.vagrantup.com/)
 
-## Filesystems
+#### Filesystems
 
 * **[mhddfs](https://romanrm.net/mhddfs)**: join several filesystems together to
   form a single larger one.
@@ -85,7 +85,7 @@
   mirror, etc.
 
 
-## Linting
+#### Linting
 
 * **[httpolice](https://github.com/vfaronov/httpolice)**: a validator for HTTP
   requests and responses. It can spot bad header syntax, inappropriate status
@@ -94,7 +94,7 @@
   suggestions for bash/sh shell scripts.
 
 
-## Networking
+#### Networking
 
 * **[mtr](https://www.bitwizard.nl/mtr/)**: My TraceRoute. combines the
   functionality of the 'traceroute' and 'ping' programs in a single network
@@ -140,7 +140,7 @@
   counts.
 
 
-## Monitoring
+#### Monitoring
 
 * **[monit](https://mmonit.com/monit/)**: a small utility for managing and
   monitoring Unix systems. Monit conducts automatic maintenance and repair and
@@ -160,7 +160,7 @@
   (stdout). E.g. `rsync x y | ts '[%Y-%m-%d %H:%M:%S]'`.
 
 
-## Security
+#### Security
 
 * **[fail2ban](https://www.fail2ban.org/wiki/index.php/Main_Page)**: Fail2ban
   scans log files and bans IPs that show malicious signs. Easily protects your
