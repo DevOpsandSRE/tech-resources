@@ -1,6 +1,11 @@
 ### SRE/DevOps
 
+### What is a Site Reliability Engineer?
+“Fundamentally, it’s what happens when you ask a software engineer to design an operations function…So SRE is fundamentally doing work that has historically been done by an operations team, but using engineers with software expertise, and banking on the fact that these engineers are inherently both predisposed to, and have the ability to, substitute automation for human labor.”
+* [What is a Site Reliability Engineer?](https://hackernoon.com/so-you-want-to-be-an-sre-34e832357a8c)
 * [Site Reliability Engineering by Google](https://landing.google.com/sre/book.html)
+* [Being an On-Call Engineer](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44813.pdf)
+* [Go for SREs Using Python](https://www.usenix.org/sites/default/files/conference/protected-files/srecon16_slides_hamilton.pdf)
 * [DevOps Bookmarks](https://www.devopsbookmarks.com/)
 
 ------
