@@ -4,7 +4,7 @@
 
 * [MDN JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [W3School (JS)](https://www.w3schools.com/js/)
-* [jQuery](http://contribute.jquery.org/documentation/]
+* [jQuery](http://contribute.jquery.org/documentation/)
 * [NodeJS](https://nodejs.org/en/docs/)
 
 #### Online courses & tutorials
