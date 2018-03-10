@@ -1,4 +1,4 @@
-# The Devlounge Tech Resources
+# The DevOps and SRE Tech Resources
 
 * #### [Python](https://github.com/TheDevlounge/tech-resources/blob/master/python.md)
 * #### [Java](https://github.com/TheDevlounge/tech-resources/blob/master/java.md)
