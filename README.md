@@ -8,3 +8,4 @@
 * #### [SRE/DevOps](https://github.com/DevOpsandSRE/tech-resources/blob/master/sreanddevops.md)
 * #### [Web](https://github.com/DevOpsandSRE/tech-resources/blob/master/web.md)
 * #### [IT Training / Misc Study Material](https://github.com/DevOpsandSRE/tech-resources/blob/master/study.md)
+* #### [PowerShell](https://github.com/DevOpsandSRE/tech-resources/blob/master/powershell.md)
