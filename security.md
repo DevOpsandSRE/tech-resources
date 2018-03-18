@@ -1,4 +1,4 @@
-### Python Resources
+### Security Resources
 ------
 
 #### Training
