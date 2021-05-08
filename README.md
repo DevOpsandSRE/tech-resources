@@ -10,6 +10,7 @@
 
 ### Tech Resources
 * #### [SRE/DevOps](https://github.com/DevOpsandSRE/tech-resources/blob/main/sreanddevops.md)
+* #### [Discord User-Submitted URLs](https://github.com/DevOpsandSRE/tech-resources/blob/main/dsi_resource_urls.md)
 * #### [Useful Bash Commands](https://github.com/DevOpsandSRE/tech-resources/blob/main/bash_commands.md)
 * #### [Web Dev](https://github.com/DevOpsandSRE/tech-resources/blob/main/web.md)
 * #### [IT Training / Misc Study Material](https://github.com/DevOpsandSRE/tech-resources/blob/main/study.md)
