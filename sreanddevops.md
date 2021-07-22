@@ -7,6 +7,7 @@
 * [Being an On-Call Engineer](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44813.pdf)
 * [Go for SREs Using Python](https://www.usenix.org/sites/default/files/conference/protected-files/srecon16_slides_hamilton.pdf)
 * [DevOps Bookmarks](https://www.devopsbookmarks.org/)
+* [School of SRE](https://linkedin.github.io/school-of-sre/)
 
 ------
 
